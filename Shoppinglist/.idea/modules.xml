@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Shoppinglist/.idea/Blocknout.iml" filepath="$PROJECT_DIR$/../Shoppinglist/.idea/Blocknout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Blocknout.iml" filepath="$PROJECT_DIR$/.idea/Blocknout.iml" />
     </modules>
   </component>
 </project>
