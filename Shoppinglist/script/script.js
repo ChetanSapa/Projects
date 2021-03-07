@@ -60,3 +60,10 @@ taskList.addEventListener("dblclick", function (event) {
         displayMessages();
         localStorage.setItem('todo', JSON.stringify(todoList));
 })
+
+taskList.addEventListener("touchmove", function (event) {
+    let i = event.target.id;
+    todoList.splice(i, 1);
+    displayMessages();
+    localStorage.setItem('todo', JSON.stringify(todoList));
+})
